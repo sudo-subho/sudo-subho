@@ -2,8 +2,7 @@
 <h3 align="center">A 📠passionate cyber security expert from Internet🌎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-subho&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-subho" /> </p>
-<img align="right" alt="Coding" width="400" height="250" src="https://thumbs.gfycat.com/DownrightNeatGalapagosalbatross-size_restricted.gif" />
-<img align="center" alt="Coder" width="600" height="250" src="https://gifdb.com/images/high/hacker-ninjala-jana-p6ck92rgkcrqv9zs.gif" />
+<img align="center" alt="Coder" width="1200" height="250" src="https://gifdb.com/images/high/hacker-ninjala-jana-p6ck92rgkcrqv9zs.gif" />
 
 <p align="left"> <a href="https://twitter.com/sudo_subho" target="blank"><img src="https://img.shields.io/twitter/follow/sudo_subho?logo=twitter&style=for-the-badge" alt="sudo_subho" /></a> </p>
 
