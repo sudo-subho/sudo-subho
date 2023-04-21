@@ -6,11 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/sudo_subho" target="blank"><img src="https://img.shields.io/twitter/follow/sudo_subho?logo=twitter&style=for-the-badge" alt="sudo_subho" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/sudo_subho" target="blank"><img src="https://img.shields.io/twitter/follow/sudo_subho?logo=twitter&style=for-the-badge" alt="sudo_subho" /></a> </p>
+
+<img align="right" alt="Coders"  src="https://media.baamboozle.com/uploads/images/287919/1614713019_135275_gif-url.gif" />
+
 - 🌱 I’m currently learning **Blue teaming👮 , cloud security☁️**
 
 - 💬 Ask me about **cyber security 🖥️**
-
-
 
 - 📫 How to reach me **subhodeepbaroi2@gmail.com**
 
