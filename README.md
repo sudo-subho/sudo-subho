@@ -249,12 +249,6 @@ I am also a bug bounty hunter. The most essential feature of me is that I am a r
       </a>
       <br>Next Js
     </td>
-     <td align="center" width="96">
-      <a href="https://angular.io/">
-        <img src="./img/Angular_logo.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Angular
-    </td>
     </tr>
 </table>
 
