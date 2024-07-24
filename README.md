@@ -75,25 +75,25 @@ I am also a bug bounty hunter. The most essential feature of me is that I am a r
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./apisec.png" width="48" height="48" alt="#" />
+        <img src="./thm.png" width="48" height="48" alt="#" />
       </a>
       <br>THM Jr Pentester
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/google.png" width="48" height="48" alt="Python" />
+        <img src="./thm.png" width="48" height="48" alt="Python" />
       </a>
       <br>THM Offensive Security 
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/cyberly.png" width="48" height="48" alt="c" />
+        <img src="./ec-concill.png" width="48" height="48" alt="c" />
       </a>
       <br>Ec-council (EHE)
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="c" />
+        <img src="./apisec.png" width="48" height="48" alt="c" />
       </a>
       <br>ApiSec University
     </td>
