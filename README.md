@@ -165,18 +165,6 @@ I am also a bug bounty hunter. The most essential feature of me is that I am a r
       <br>PHP
     </td>
     <td align="center" width="96">
-      <a href="https://www.java.com/">
-        <img src="./img/java.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://vuejs.org/">
-        <img src="./img/vue-js.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>Vue JS
-    </td>
-    <td align="center" width="96">
       <a href="https://graphql.org/">
         <img src="./img/graphql.png" width="48" height="48" alt="PHP" />
       </a>
@@ -242,12 +230,6 @@ I am also a bug bounty hunter. The most essential feature of me is that I am a r
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Node JS
-    </td>
-    <td align="center" width="96">
-      <a href="https://nextjs.org/">
-        <img src="./img/Next_JS.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Next Js
     </td>
     </tr>
 </table>
