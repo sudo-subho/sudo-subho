@@ -77,25 +77,25 @@ I am also a bug bounty hunter. The most essential feature of me is that I am a r
       <a href="#">
         <img src="./img/google.png" width="48" height="48" alt="#" />
       </a>
-      <br>IT Support Proffetional
+      <br>THM Jr Pentester
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="./img/google.png" width="48" height="48" alt="Python" />
       </a>
-      <br>IT Automation with Python Professional
+      <br>THM Offensive Security 
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="./img/cyberly.png" width="48" height="48" alt="c" />
       </a>
-      <br>CompTIA Network+
+      <br>Ec-council (EHE)
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="./img/redhat-original.svg" width="48" height="48" alt="c" />
       </a>
-      <br>Linux System Administration
+      <br>ApiSec University
     </td>
      </tr>
 </table>
@@ -436,11 +436,11 @@ I am also a bug bounty hunter. The most essential feature of me is that I am a r
 
 ## 📘 My top  projects
 <p align="left">
- <a href="https://github.com/sudo-subho/term-chat/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sudo-subho&repo=term-chat&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
- <a href="https://github.com/sudo-subho/penbox-ubuntu"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sudo-subho&repo=penbox-ubuntu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
- <a href="https://github.com/sudo-subho/vsftpd_exploit"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sudo-subho&repo=vsftpd_exploit&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
- <a href="https://github.com/sudo-subho/Zcracker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sudo-subho&repo=Zcracker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
- <a href="https://github.com/sudo-subho/assembly-calculator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sudo-subho&repo=assembly-calculator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/sudo-subho/kal-droid/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sudo-subho&repo=kal-droid&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/sudo-subho/bug-tracker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sudo-subho&repo=bug-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/sudo-subho/hackstagram"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sudo-subho&repo=hackstagram&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/sudo-subho/Yt-downloader"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sudo-subho&repo=Yt-downloader&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/sudo-subho/ubuntu-gui-root-login"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sudo-subho&repo=ubuntu-gui-root-login&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
  <a href="https://github.com/sudo-subho/term-chat/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sudo-subho&repo=term-chat&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
